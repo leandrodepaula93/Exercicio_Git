@@ -111,3 +111,16 @@ Aprendendo JS.
 N/A (ainda :D)
 
 <hr>
+## Projetos Pessoais
+
+Criado um CRUD em PHP onde era possível salvar dados. Para a academia de um amigo.
+
+<hr>
+
+## Redes Sociais
+
+[Facebook](https://www.facebook.com/leandro.depaula.71/)
+
+[Instagram](https://www.instagram.com/lbp.leandro/)
+
+[LinkedIn](https://www.linkedin.com/in/leandro-de-paula-b3423b145/)
