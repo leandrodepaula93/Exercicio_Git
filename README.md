@@ -95,3 +95,19 @@ de NF-e, produção de pallet, operador de empilhadeira.
 <b>Duração do curso:</b> 12 meses
 
 <hr>
+
+## Conhecimentos
+
+HTML;
+
+CSS;
+
+Aprendendo JS.
+
+<hr>
+
+## Participações em Eventos
+
+N/A (ainda :D)
+
+<hr>
