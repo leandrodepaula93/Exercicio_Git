@@ -13,3 +13,12 @@
 <b>E-mail:</b> lbp.leandro@gmail.com
 
 <hr>
+
+## Formação Acadêmica
+
+<b>Faculdade Alfa Umuarama:</b> Cursando pós-graduação WebDev (fim: dezembro 2022).
+
+<b>Anhanguera Educacional:</b> Graduado no curso de Tecnologia em Análise e Desenvolvimento
+de Sistemas.
+
+<hr>
