@@ -22,3 +22,9 @@
 de Sistemas.
 
 <hr>
+
+## Projetos Pessoais
+
+Criado um CRUD em PHP onde era possível salvar dados. Para a academia de um amigo.
+
+<hr>
